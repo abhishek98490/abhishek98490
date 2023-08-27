@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently working on **Summarize to Vocalize: A Novel Approach to Text Summarization and Comparative Analysis of TTS Systems**
 
-- 👯 I have worked on [Semantic Segmentation of Aerial, Audio Classification using Machine Learning Images](https://github.com/abhishek98490/Semantic-Segmentation-of-Aerial-Images , https://github.com/abhishek98490/Audio-Classification-using-Machine-Learning)
+- 👯 I have worked on:
+  [**Semantic Segmentation of Aerial Images**](https://github.com/abhishek98490/Semantic-Segmentation-of-Aerial-Images)
+  [**Audio Classification using Machine Learning**](https://github.com/abhishek98490/Audio-Classification-using-Machine-Learning)
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhishek98490](https://github.com/abhishek98490)
+- 👨‍💻 All of my projects are available at [Github.com](https://shorturl.at/hG037)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uvCk-OpESCFwb1CjbELSzmCQ-hKO46z8/view?usp=sharing](https://drive.google.com/file/d/1uvCk-OpESCFwb1CjbELSzmCQ-hKO46z8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://shorturl.at/aAI78)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
