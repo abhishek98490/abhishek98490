@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Summarize to Vocalize: A Novel Approach to Text Summarization and Comparative Analysis of TTS Systems**
 
+- 👯 I have worked on **Semantic Segmentation of Aerial Images**
+
 - 👨‍💻 All of my projects are available at [https://github.com/abhishek98490](https://github.com/abhishek98490)
 
 <h3 align="left">Connect with me:</h3>
