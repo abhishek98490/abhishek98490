@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek98490&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek98490" /> </p>
 
-- 🔭 I’m currently working on **Summarize to Vocalize: A Novel Approach to Text Summarization and Comparative Analysis of TTS Systems**
+- 🔭 I’m currently working as **Machine Learning Engineer at Amphora**
 
 - 👯 I have worked on
   [**Semantic Segmentation of Aerial Images**](https://github.com/abhishek98490/Semantic-Segmentation-of-Aerial-Images),
