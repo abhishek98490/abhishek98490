@@ -9,7 +9,7 @@
   [**Semantic Segmentation of Aerial Images**](https://github.com/abhishek98490/Semantic-Segmentation-of-Aerial-Images),
   [**Audio Classification using Machine Learning**](https://github.com/abhishek98490/Audio-Classification-using-Machine-Learning)
 
-- 👨‍💻 All of my projects are available at [Github.com](https://shorturl.at/hG037)
+- 👨‍💻 All of my projects are available at [Github.com]([https://shorturl.at/hG037](https://github.com/abhishek98490))
 
 - 📄 Know about my experiences [Resume](https://shorturl.at/aAI78)
 
