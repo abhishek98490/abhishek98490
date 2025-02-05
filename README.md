@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working as **Machine Learning Engineer at Amphora**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/abhishek98490)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/abhishek98490) and I am curently working on [Simple Rag Chatbot](https://github.com/abhishek98490/RAG_CHATBOT)
 
 - 📫 How to reach me **sharmaabhi.98490@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1j1S5b6ZLGbkgzALaU8DWi7y0xklavxYX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
