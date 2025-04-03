@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek98490&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek98490" /> </p>
 
-- 🔭 I’m currently working as **Machine Learning Engineer at Amphora**
+- 🔭 I’m currently working as **Data Scientist at Amphora**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/abhishek98490) and I am curently working on [Simple Rag Chatbot](https://github.com/abhishek98490/RAG_CHATBOT)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/abhishek98490) and I am curently working on [AI Assistant](https://github.com/abhishek98490/AI_Assistant)
 
 - 📫 How to reach me **sharmaabhi.98490@gmail.com**
 
